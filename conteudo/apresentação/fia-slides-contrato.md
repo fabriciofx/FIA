@@ -14,7 +14,7 @@ img[alt~="center"] {
 </style>
 
 <!-- _paginate: false -->
-# **Contrato Pedagógico FIA - 2023.1**
+# **Contrato Pedagógico FIA**
 
 ### Disciplina: Fundamentos de Informática e Aplicativos (FIA)
 ### Professor Formador: Fabrício Barros Cabral
@@ -30,23 +30,14 @@ img[alt~="center"] {
 
 ## Horário de Tutoria
 
-|       | Segunda | Terça | Quarta | Quinta | Sexta |
-|-------|---------|-------|--------|--------|-------|
-| Manhã |         |       |        |        |       |
-| Tarde |         |  14h  |  14h   |        |       |
-| Noite |         |       |        |        |       |
-
+- Consultar o AVEA
+  
 ---
 
 ## Calendário
 
-| Evento                     |  Data                   |
-|----------------------------|-------------------------|
-| Encontro Presencial (EP)   | 11/03/2023 e 01/04/2023 |
-| Avaliação Presencial (AP)  | 15/02/2023              |
-| 2ª Chamada                 | 20/04/2023              |
-| Exame Final Presencial     | 29/04/2023              |
-
+- Consultar o AVEA
+  
 ---
 
 ## Ementa
@@ -106,7 +97,7 @@ Obs.: De acordo com a Organização Acadêmica, Art. 144 – Parágrafo Único: 
 
 $$Media → ME = NATD + NAP$$
 
-Caso ME ≥ 7,0, o/a estudante estará aprovado/a.
+Caso ME ≥ 6,0, o/a estudante estará aprovado/a.
 
 ---
 
@@ -170,7 +161,7 @@ X - força maior.*
 
 ## Exame Final
 
-- Caso o estudante obtenha média maior ou igual a 2,0  (dois) e menor que 7,0 (sete), estará automaticamente na final;
+- Caso o estudante obtenha média maior ou igual a 2,0 (dois) e menor que 6,0 (seis), estará automaticamente na final;
 - A Média Final para aprovação é 6,0 e é calculada da seguinte forma:
 
 $$ MF = \frac{ME + NEF}{2} $$
